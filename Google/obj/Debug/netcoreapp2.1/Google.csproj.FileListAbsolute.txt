@@ -1,0 +1,11 @@
+D:\Softuni\OOP\Defining Classes\Google\obj\Debug\netcoreapp2.1\Google.csprojAssemblyReference.cache
+D:\Softuni\OOP\Defining Classes\Google\obj\Debug\netcoreapp2.1\Google.csproj.CoreCompileInputs.cache
+D:\Softuni\OOP\Defining Classes\Google\obj\Debug\netcoreapp2.1\Google.AssemblyInfoInputs.cache
+D:\Softuni\OOP\Defining Classes\Google\obj\Debug\netcoreapp2.1\Google.AssemblyInfo.cs
+D:\Softuni\OOP\Defining Classes\Google\bin\Debug\netcoreapp2.1\Google.deps.json
+D:\Softuni\OOP\Defining Classes\Google\bin\Debug\netcoreapp2.1\Google.runtimeconfig.json
+D:\Softuni\OOP\Defining Classes\Google\bin\Debug\netcoreapp2.1\Google.runtimeconfig.dev.json
+D:\Softuni\OOP\Defining Classes\Google\bin\Debug\netcoreapp2.1\Google.dll
+D:\Softuni\OOP\Defining Classes\Google\bin\Debug\netcoreapp2.1\Google.pdb
+D:\Softuni\OOP\Defining Classes\Google\obj\Debug\netcoreapp2.1\Google.dll
+D:\Softuni\OOP\Defining Classes\Google\obj\Debug\netcoreapp2.1\Google.pdb

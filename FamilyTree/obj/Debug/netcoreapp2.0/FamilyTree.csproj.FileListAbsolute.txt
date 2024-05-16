@@ -1,0 +1,11 @@
+D:\Softuni\OOP\Defining Classes\FamilyTree\bin\Debug\netcoreapp2.0\FamilyTree.deps.json
+D:\Softuni\OOP\Defining Classes\FamilyTree\bin\Debug\netcoreapp2.0\FamilyTree.runtimeconfig.json
+D:\Softuni\OOP\Defining Classes\FamilyTree\bin\Debug\netcoreapp2.0\FamilyTree.runtimeconfig.dev.json
+D:\Softuni\OOP\Defining Classes\FamilyTree\bin\Debug\netcoreapp2.0\FamilyTree.dll
+D:\Softuni\OOP\Defining Classes\FamilyTree\bin\Debug\netcoreapp2.0\FamilyTree.pdb
+D:\Softuni\OOP\Defining Classes\FamilyTree\obj\Debug\netcoreapp2.0\FamilyTree.csprojAssemblyReference.cache
+D:\Softuni\OOP\Defining Classes\FamilyTree\obj\Debug\netcoreapp2.0\FamilyTree.csproj.CoreCompileInputs.cache
+D:\Softuni\OOP\Defining Classes\FamilyTree\obj\Debug\netcoreapp2.0\FamilyTree.AssemblyInfoInputs.cache
+D:\Softuni\OOP\Defining Classes\FamilyTree\obj\Debug\netcoreapp2.0\FamilyTree.AssemblyInfo.cs
+D:\Softuni\OOP\Defining Classes\FamilyTree\obj\Debug\netcoreapp2.0\FamilyTree.dll
+D:\Softuni\OOP\Defining Classes\FamilyTree\obj\Debug\netcoreapp2.0\FamilyTree.pdb

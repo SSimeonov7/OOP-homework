@@ -1,0 +1,11 @@
+D:\Softuni\OOP\Defining Classes\CompanyRoster\bin\Debug\netcoreapp2.1\CompanyRoster.deps.json
+D:\Softuni\OOP\Defining Classes\CompanyRoster\bin\Debug\netcoreapp2.1\CompanyRoster.runtimeconfig.json
+D:\Softuni\OOP\Defining Classes\CompanyRoster\bin\Debug\netcoreapp2.1\CompanyRoster.runtimeconfig.dev.json
+D:\Softuni\OOP\Defining Classes\CompanyRoster\bin\Debug\netcoreapp2.1\CompanyRoster.dll
+D:\Softuni\OOP\Defining Classes\CompanyRoster\bin\Debug\netcoreapp2.1\CompanyRoster.pdb
+D:\Softuni\OOP\Defining Classes\CompanyRoster\obj\Debug\netcoreapp2.1\CompanyRoster.csprojAssemblyReference.cache
+D:\Softuni\OOP\Defining Classes\CompanyRoster\obj\Debug\netcoreapp2.1\CompanyRoster.csproj.CoreCompileInputs.cache
+D:\Softuni\OOP\Defining Classes\CompanyRoster\obj\Debug\netcoreapp2.1\CompanyRoster.AssemblyInfoInputs.cache
+D:\Softuni\OOP\Defining Classes\CompanyRoster\obj\Debug\netcoreapp2.1\CompanyRoster.AssemblyInfo.cs
+D:\Softuni\OOP\Defining Classes\CompanyRoster\obj\Debug\netcoreapp2.1\CompanyRoster.dll
+D:\Softuni\OOP\Defining Classes\CompanyRoster\obj\Debug\netcoreapp2.1\CompanyRoster.pdb
